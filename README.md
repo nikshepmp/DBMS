@@ -1,2 +1,2 @@
 # DBMS
-Academic DBMS Projects
+Academic DBMS Laboratory
